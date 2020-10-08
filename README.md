@@ -1,7 +1,5 @@
-# Assignment-2 Part-3
-
-### Jyoti Sunkara - 2018101044 
-### Shradha Sehgal - 2018101071
+# Linear Programming
+Using linear programming to solve a Markov decision process problem! 
 
 ## Run the script
 
